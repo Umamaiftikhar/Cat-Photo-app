@@ -4,7 +4,7 @@
 <html lang="en">
   <head>
     
-    <title>CatPhotoApp</title>
+    <!-- <title>CatPhotoApp</title> -->
   </head>
   <body>
     <main>
